@@ -1,0 +1,19 @@
+{
+  "name": "auxiliar",
+  "version": "1.0.0",
+  "description": "sistema auxiliar",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "auxiliar"
+  },
+  "author": "rcetina",
+  "license": "ISC"
+}
